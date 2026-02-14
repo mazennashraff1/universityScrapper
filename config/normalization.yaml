@@ -1,0 +1,5 @@
+replace:
+  - from: "//"
+    to: "/"
+  - from: "/index.html"
+    to: ""

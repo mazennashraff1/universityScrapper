@@ -1,0 +1,11 @@
+- name: "American University in Cairo"
+  country: "Egypt"
+  url: "https://www.aucegypt.edu"
+
+- name: "King Abdullah University of Science and Technology"
+  country: "Saudi Arabia"
+  url: "https://www.kaust.edu.sa"
+
+- name: "American University of Beirut"
+  country: "Lebanon"
+  url: "https://www.aub.edu.lb"

@@ -1,0 +1,17 @@
+max_depth: 2
+delay_seconds: 3
+
+# These are the URL patterns that identify LISTING pages (pages that contain many profiles)
+# The crawler will find these pages first, then extract all profiles from them
+allowed_paths:
+  - faculty-profiles
+  - faculty
+  - people
+  - staff
+  - directory
+  - academics
+  - profile
+  - team
+  - researchers
+  - our-faculty
+  - our-people
